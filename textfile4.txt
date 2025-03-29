@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 this was the time of history and this was the time of frugality
 
 this is my text file 4
+=======
+this is my textfile 4
+it was the time of success and it was the time for frugality
+>>>>>>> alien-plot
